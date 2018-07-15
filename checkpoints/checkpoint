@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Group.Taketsuru\\Desktop\\reaction_learning\\simulations\\..\\checkpoints\\network"
+all_model_checkpoint_paths: "C:\\Users\\Group.Taketsuru\\Desktop\\reaction_learning\\simulations\\..\\checkpoints\\network"
